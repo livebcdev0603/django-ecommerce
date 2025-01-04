@@ -27,7 +27,6 @@ The website displays products. Users can add and remove products to/from their c
 [![alt text](https://justdjango.s3-us-west-2.amazonaws.com/media/thumbnails/djecommerce.png "Logo")](https://youtu.be/z4USlooVXG0)
 
 ---
-
 ## Running this project
 
 To get this project up and running you should start by having Python installed on your computer. It's advised you create a virtual environment to store your projects dependencies separately. You can install virtualenv with
